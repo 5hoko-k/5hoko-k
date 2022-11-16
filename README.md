@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @5hoko_k
+- 👋 Hi, I’m @5hoko-k
 - 👀 I’m interested in website development
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on ...
